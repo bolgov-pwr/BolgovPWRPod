@@ -1,0 +1,16 @@
+PODS:
+  - BolgovPWRPod (0.1.0)
+
+DEPENDENCIES:
+  - BolgovPWRPod (from `../`)
+
+EXTERNAL SOURCES:
+  BolgovPWRPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BolgovPWRPod: 1260d3b9a13054edccf5db278c0d5d81d443fa63
+
+PODFILE CHECKSUM: ab7dcef011795d7c7899bceddb6f79351a1f2892
+
+COCOAPODS: 1.9.1
