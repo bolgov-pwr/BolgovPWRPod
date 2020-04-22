@@ -1,8 +1,8 @@
 {
   "name": "BolgovPWRPod",
   "version": "0.1.0",
-  "summary": "A short description of BolgovPWRPod.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "sdbcsjdhbcjhsdbcjhsdbcjshdbcjhsdbcjshdbcjsdhbcjhsdbcsjhdcbssbcsjhd",
+  "description": "dsjncjksdnckjsdnkcjnsdkjcnksdjnckjsdnckjsdnckjsdnckjsdnkjcnksjdncskjdncksdjnckjsdnckjsdncksjdnckjsndkjc\ncskdnckjsdncjksdncksjdncsdjncsdckjsdncksjdncksjdnckjsdncksdncds",
   "homepage": "https://github.com/bolgov-pwr/BolgovPWRPod",
   "license": {
     "type": "MIT",
@@ -16,7 +16,9 @@
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
-  "source_files": "BolgovPWRPod/Classes/**/*"
+  "swift_versions": "5.0",
+  "source_files": "BolgovPWRPod/Classes/**/*",
+  "swift_version": "5.0"
 }

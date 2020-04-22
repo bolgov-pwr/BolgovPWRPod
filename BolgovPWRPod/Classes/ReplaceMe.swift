@@ -1,6 +1,7 @@
 
 public class TestPWR {
-	static func testPrint() {
+	static public func testPrint() {
 		print("DONE!")
+		print("update")
 	}
 }

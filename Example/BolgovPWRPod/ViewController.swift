@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import BolgovPWRPod
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+		
+//		let d = TestPWR()
     }
 
     override func didReceiveMemoryWarning() {
